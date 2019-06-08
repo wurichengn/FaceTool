@@ -1,0 +1,1 @@
+start webpack --progress --color --config webpack.build.js

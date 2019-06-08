@@ -1,0 +1,106 @@
+
+//======组件接口定义======
+{
+	//接口列表
+	modules:[
+		//影像tag输入
+		{
+			//一个与其他组件区分用的唯一ID
+			class:"input-study",
+			//接口类型  用于前端分类
+			type:"input",
+			//接口名称
+			name:"标注特征输入",
+			//需要选择的参数表
+			args:{
+				//label列表
+				labels:{
+					//标题
+					title:"选择已标记影像",
+					//参数类型 - 数据列表
+					type:"model-list",
+					//表名
+					keys:"stu_study",
+					//查询条件
+					where:{
+						state:1
+					}
+				}
+			},
+			//逻辑使用的组件
+			module:"input-study",
+			//输出参数类型  studys:影像检查列表
+			output:"studys"
+		},
+		//AI接口1
+		{
+			//一个与其他组件区分用的唯一ID   ai-post代表远程请求
+			class:"ai-post",
+			//接口类型  用于前端分类
+			type:"action",
+			//接口名称
+			name:"AI计算组件1",
+			//组件使用的接口地址
+			action:"ai-1",
+			//AI组件
+			isAI:true,
+			//需要的输入参数
+			input:["studys"],
+			//输出参数类型  model:模型
+			output:"model",
+			//需要选择的参数表，哈希表，最终也以同key哈希表结构返回
+			args:{
+				//测试参数1   数字输入
+				test1:{
+					//参数标题
+					title:"测试参数-数字",
+					//参数类型
+					type:"number",
+					//最小值
+					min:4,
+					//最大值
+					max:98
+				},
+				//测试参数2   字符串输入
+				test2:{
+					//参数标题
+					title:"测试参数-文本",
+					//参数类型
+					type:"text"
+				},
+				//测试参数3   长文本
+				test3:{
+					//参数标题
+					title:"测试参数-长文本",
+					//参数类型
+					type:"textarea"
+				}
+			}
+		},
+		{
+			//测试专用
+			class:"ai-post-test",
+			type:"action",
+			name:"拓扑测试组件",
+			isAI:true,
+			//需要的输入参数
+			input:["model","model"],
+			output:"model"
+		},
+		//模型转报告
+		{
+			//一个与其他组件区分用的唯一ID
+			class:"view-test-1",
+			//接口类型  用于前端分类
+			type:"view",
+			//接口名称
+			name:"AI报告组件",
+			//组件使用的接口地址
+			action:"ai-1",
+			//需要的输入参数
+			input:["model"],
+			//额外的视图模型
+			views:["talk"]
+		}
+	]
+}

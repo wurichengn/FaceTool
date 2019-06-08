@@ -1,0 +1,1128 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"input"
+			],
+			[
+				"modu",
+				"modules"
+			],
+			[
+				"Mod",
+				"Modality"
+			],
+			[
+				"Mo",
+				"Modality"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"save",
+				"saveLabel"
+			],
+			[
+				"sut",
+				"study"
+			],
+			[
+				"IBM",
+				"IBMChangeAction"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"op",
+				"optional"
+			],
+			[
+				"next",
+				"nextMsg"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"add",
+				"addPage"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"IP_",
+				"IP_AI"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"type",
+				"type"
+			],
+			[
+				"Input",
+				"InputTypes"
+			],
+			[
+				"select",
+				"select"
+			],
+			[
+				"stu",
+				"stu_studyId"
+			],
+			[
+				"callBac",
+				"callbackArgs"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"order",
+				"orderKey"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"ta",
+				"tabel"
+			],
+			[
+				"Scr",
+				"ScoreTable"
+			],
+			[
+				"pso",
+				"position\tproperty"
+			],
+			[
+				"def",
+				"default\tcursor"
+			],
+			[
+				"inf",
+				"infinite"
+			],
+			[
+				"background-pos",
+				"background-position"
+			],
+			[
+				"test",
+				"test-menu"
+			],
+			[
+				"trans",
+				"trans"
+			],
+			[
+				"stu_stud",
+				"stu_studyId"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"module",
+				"module"
+			],
+			[
+				"Table",
+				"Table"
+			],
+			[
+				"Modules",
+				"Modules"
+			],
+			[
+				"stu_st",
+				"stu_study"
+			],
+			[
+				"stu_tas",
+				"stu_task_item"
+			],
+			[
+				"stu_task",
+				"stu_task_item"
+			],
+			[
+				"test-ai",
+				"test-ai-test"
+			],
+			[
+				"task",
+				"taskID"
+			],
+			[
+				"model",
+				"model_id"
+			],
+			[
+				"HQL",
+				"HQL.query"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"break",
+				"break-all"
+			],
+			[
+				"inputs",
+				"inputsID"
+			],
+			[
+				"create",
+				"create_time"
+			],
+			[
+				"stu_",
+				"stu_task_item"
+			],
+			[
+				"ret",
+				"ret_code"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"check",
+				"checks"
+			],
+			[
+				"chekc",
+				"checks"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"InputLis",
+				"InputListItem"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"stud",
+				"studys"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"stu_lab",
+				"stu_lab_his"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"tirgger",
+				"triggerDom"
+			],
+			[
+				"dom",
+				"dom-slot"
+			],
+			[
+				"stu_pro",
+				"stu_projectId"
+			],
+			[
+				"trigger",
+				"triggerDom"
+			],
+			[
+				"inse",
+				"insert"
+			],
+			[
+				"SE",
+				"Sequelize"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"lcg-",
+				"lcg-module"
+			],
+			[
+				"map",
+				"map_id"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"proje",
+				"project"
+			],
+			[
+				"project",
+				"stu_projectId"
+			],
+			[
+				"stu_mo",
+				"stu_model_test"
+			],
+			[
+				"call",
+				"callbackArgs"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"query",
+				"query"
+			],
+			[
+				"sav",
+				"saves"
+			],
+			[
+				"pren",
+				"parents"
+			],
+			[
+				"Jax",
+				"JaxOne"
+			],
+			[
+				"study",
+				"studys"
+			],
+			[
+				"post",
+				"postState"
+			],
+			[
+				"stu_pr",
+				"stu_projectId"
+			],
+			[
+				"Model",
+				"ModelList"
+			],
+			[
+				"draw",
+				"drawLine"
+			],
+			[
+				"modul",
+				"modules"
+			],
+			[
+				"Info",
+				"InfoItem"
+			],
+			[
+				"In",
+				"Info"
+			],
+			[
+				"Line",
+				"LineMenu"
+			],
+			[
+				"pointer",
+				"pointer"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"getD",
+				"getDomOffset"
+			],
+			[
+				"delete",
+				"deleteStudy"
+			],
+			[
+				"module-",
+				"module-table-order"
+			],
+			[
+				"ui-",
+				"ui-full"
+			],
+			[
+				"ui-flo",
+				"ui-float"
+			],
+			[
+				"page",
+				"pageSize"
+			],
+			[
+				"max",
+				"max-page"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"quer",
+				"queryInfo"
+			],
+			[
+				"onclick",
+				"onclick"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"build",
+				"buildInfo"
+			],
+			[
+				"load",
+				"loadData"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"menu",
+				"menuModule"
+			],
+			[
+				"table",
+				"table_config"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"pro",
+				"proInfo"
+			],
+			[
+				"none",
+				"noneTip"
+			],
+			[
+				"pr",
+				"proInfo"
+			],
+			[
+				"onse",
+				"onselect"
+			],
+			[
+				"css",
+				"cssKey"
+			],
+			[
+				"ui-clic",
+				"ui-click-ani-run"
+			],
+			[
+				"get",
+				"getDoms"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"Base",
+				"BaseItem"
+			],
+			[
+				"Config",
+				"ConfigModule"
+			],
+			[
+				"ha",
+				"hasOne"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "alpha-new/js/ui/ui-ress.js",
+			"settings":
+			{
+				"buffer_size": 114,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "alpha-new/js/ui/ui-main.js",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "alpha-new/js/ui/ui-end.js",
+			"settings":
+			{
+				"buffer_size": 9281,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "alpha-new/js/draw/draw-main.js",
+			"settings":
+			{
+				"buffer_size": 6271,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/CodeTest/MyProject/FaceTool",
+		"/D/CodeTest/MyProject/FaceTool/alpha-new",
+		"/D/CodeTest/MyProject/FaceTool/alpha-new/js",
+		"/D/CodeTest/MyProject/FaceTool/alpha-new/js/draw",
+		"/D/CodeTest/MyProject/FaceTool/alpha-new/js/ui"
+	],
+	"file_history":
+	[
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-value-frame.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-panle.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-config.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/guides/guide-init.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/ui-guide.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/guides/guide-base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/task/task-module.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/task/task-main.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/controller/study.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/controller/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/bootstrap/worker.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/lib/define.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/lib/model.js",
+		"/D/MarkDown/其他/CMEF简单总结.md",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-hql/hql-model.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/guides/guide-config.js",
+		"/D/CodeTest/Cpany/viewer/webpack/build/config.json",
+		"/D/CodeTest/Cpany/Study-Server/文档/导入接口.md",
+		"/D/CodeTest/Cpany/Study-Server/文档/数据接口.md",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/config/crontab.js",
+		"/C/Users/YOGA/Downloads/swagger-ui-master/swagger-ui-master/dist/swagger.json",
+		"/C/Users/YOGA/Downloads/swagger-ui-master/swagger-ui-master/dist/index.html",
+		"/C/Users/YOGA/Desktop/demo (2).json",
+		"/C/Users/YOGA/Documents/WeChat Files/evillcg/FileStorage/File/2019-06/未命名.numbers",
+		"/C/Tools/nginx-1.15.5/nginx-1.15.5/conf/nginx.conf",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-forms.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-task.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-input.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-table.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-info.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/webpack.config.js",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx1B280C69_view.tmp/development-out.log",
+		"/D/CodeTest/Cpany/viewer/webpack/package.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/config/config.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/development.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/webpack.server.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/index.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/view/index_index.html",
+		"/G/CodeTest/2019-5/web/project/public/lcg/ice.js",
+		"/G/CodeTest/2019-5/web/project/webpack.config.js",
+		"/G/CodeTest/2019-5/web/project/package.json",
+		"/G/CodeTest/2019-5/web/project/public/lcg/dm-react/ice/ice.static.js",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx0EC975CE_view.tmp/development-error.log",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx0EC975CE_view.tmp/development-out.log",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-step.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-lab.js",
+		"/D/CodeTest/Cpany/viewer/webpack/package-lock.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-frame.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/ui-resource.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/ui-project.js",
+		"/C/Users/YOGA/Desktop/新建文本文档.txt",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx77426355_view.tmp/development-out.log",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx77426355_view.tmp/development-error.log",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-modules.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/ui/ui-main.js",
+		"/D/test.json",
+		"/D/Code/FlashFXP5.4.0.3960/Cache/~fx7DF2F2F1_view.tmp/crow_pacs.properties",
+		"/D/CodeTest/Cpany/active/web/dist/gift.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/f-talk/talk-modules.js",
+		"/D/CodeTest/Cpany/active/web/dist/test.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/ui-draw.js",
+		"/C/Users/YOGA/Desktop/study-error.log",
+		"/C/Users/YOGA/Desktop/study-out.log",
+		"/D/CodeTest/Cpany/viewer/Service-study/app/controller/doc.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/app/config/adapter.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/pm2.json",
+		"/D/CodeTest/2019-4/createText/index.js",
+		"/D/CodeTest/2019-5/肺片.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/view/login.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/css/login.css",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-history.js",
+		"/D/CodeTest/2019-4/docker/mysql/Dockerfile",
+		"/D/CodeTest/2019-4/docker/node/Dockerfile",
+		"/D/CodeTest/2019-4/docker/node/build.bat",
+		"/D/CodeTest/2019-4/docker/node/index.js",
+		"/C/Program Files/Docker/Docker/resources/windows-daemon-options.json",
+		"/C/Program Files/Docker/Docker/resources/linux-daemon-options.json",
+		"/C/Program Files/Docker/Docker/installationmanifest.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-tabs.js",
+		"/D/MarkDown/周报/2019-04-27.md",
+		"/D/CodeTest/Cpany/viewer/Service-study/规范/web2AI.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-hql/define-model.js",
+		"/C/Users/YOGA/Documents/WeChat Files/evillcg/FileStorage/File/2019-04/test_radiomics_analyzer.py",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/info/info-module.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/规范/web2AI3.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/规范/web2AI2.json",
+		"/C/Users/YOGA/Documents/WeChat Files/evillcg/FileStorage/File/2019-04/json&excel/json&excel/index.js",
+		"/C/Users/YOGA/Documents/WeChat Files/evillcg/FileStorage/File/2019-04/json&excel/json&excel/tags/1.2.840.113704.1.111.3968.1525825615.7.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/规范/test.js",
+		"/D/资源库/表情.library/mtime.json",
+		"/D/资源库/表情.library/images/0db7d08d-91b6-e322-b089-aa0015e60cda.info/metadata.json",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/lib/g2.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-module/src/module-float.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/lib/marked.min.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/f-talk/talk-main.js",
+		"/C/Users/YOGA/Documents/WeChat Files/evillcg/FileStorage/File/2019-04/nohup.out",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-style/css-base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-style/css-index.js",
+		"/D/MarkDown/其他/改版后接口说明.md",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-style/css-event.js",
+		"/D/MarkDown/其他/科研平台疑问说明.md",
+		"/C/Users/YOGA/Desktop/label.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/config/adapter.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/src/controller/base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/draw/draw-modules",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/main.js",
+		"/D/MarkDown/周报/2019-03-22.md",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/build/css/index.css",
+		"/D/CodeTest/2019-3/flex测试/test.html",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/list/list-project.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-hql/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-model/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-style/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/style/css-index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/study-post/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/style/css-event.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/style/css-base.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/server.bat",
+		"/D/CodeTest/2019-3/change.html",
+		"/D/CodeTest/Cpany/viewer/.gitignore",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/lcg-hql",
+		"/D/CodeTest/Cpany/C#/WindowsFormsApp1/DirectAI/bin/Release/DirectAI/DirectAI.pdb",
+		"/D/CodeTest/Cpany/C#/WindowsFormsApp1/DirectAI/bin/Release/DirectAI/DirectAI.exe.config",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/public/global/index.js",
+		"/D/CodeTest/Cpany/viewer/Service-study/web-project/alpha-new/js/global.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"D:\\CodeTest\\Cpany\\viewer\\Service-study\\web-project\\alpha-new",
+			"D:\\CodeTest\\Cpany\\viewer\\Service-study\\web-project\\alpha-new\\js\\ui",
+			"D:\\CodeTest\\Cpany\\viewer\\Service-study\\web-project\\public",
+			"D:\\CodeTest\\Cpany\\viewer\\Service-study\\web-project\\alpha-new\\js",
+			"D:\\CodeTest\\Cpany\\CTViewer\\Service\\node_modules\\images"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"model.query",
+			".query",
+			"关联",
+			"remove",
+			"z",
+			"fs",
+			"fs.",
+			"saves.annos[i]",
+			"//\n",
+			"end",
+			"name",
+			"info",
+			"stu_study",
+			"key",
+			"dt",
+			"titles",
+			"list",
+			"test.",
+			"callbackFeature",
+			"Normalizer",
+			"热力图",
+			"Static",
+			"static",
+			"CHI2",
+			"check",
+			"env",
+			"hx[res[i].guid]",
+			"value.predicts",
+			"测试",
+			"max_fea",
+			":{\n",
+			"info,key,val,vals,cb",
+			"IP_ME",
+			"IP_AI",
+			"lambda",
+			"scale",
+			"test",
+			"mean",
+			"max",
+			"single",
+			"most_frequent",
+			"mean",
+			"max",
+			"single",
+			"mutual_info_classif",
+			"f_classif",
+			"chi2",
+			".onorder",
+			"排序",
+			"ch2",
+			"lid=\"panle",
+			"ch2",
+			"ROC",
+			"005101e3-6066-11e9-b20f-ac1f6b264d9c",
+			"mod.Table",
+			"stu_study",
+			"lab_map",
+			"tabel",
+			"TASKID",
+			"10.2.112.178:1826",
+			"10.2.112.51:5001",
+			"10.2.112.51",
+			"第一分类名",
+			"main",
+			"ev",
+			"point",
+			"loading",
+			"预测",
+			"10.21.12.178",
+			"10.21.12.130",
+			"10.2.112.146",
+			"项目",
+			"\"1\"",
+			"1",
+			"\"1\"",
+			"\"0\",",
+			";\n",
+			"\"draw-panle-update-item\"",
+			"\"draw-panle-update\"",
+			"Panle",
+			"lab_map",
+			"Draw",
+			"map",
+			"item",
+			"决策树",
+			"stu_lab",
+			"\"draw-panle-update-item\"",
+			"draw-panle-update",
+			"HQL",
+			"select",
+			"train",
+			"sel",
+			"f_classif",
+			"ch2",
+			"list",
+			"fea",
+			"pre",
+			".info",
+			"\"draw-panle-update-item\"",
+			"\"draw-panle-update\"",
+			".info",
+			".info = ",
+			"value",
+			"line",
+			"-",
+			"LineMenu",
+			"18a05e",
+			"separate",
+			"calc(100% - 30px)",
+			"30",
+			"bar",
+			"user",
+			"drawLine",
+			"\"module-drag-move\"",
+			"config.lab_map",
+			"lcg.triggerDom",
+			"config",
+			"Draw.",
+			"info",
+			"lab_map",
+			"func",
+			"titles",
+			"a",
+			"conso",
+			"parents",
+			"saves[list[i].links[j].id]",
+			"[i]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "alpha-new/js/ui/ui-ress.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/babel-sublime-master/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "alpha-new/js/ui/ui-main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/babel-sublime-master/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "alpha-new/js/ui/ui-end.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/babel-sublime-master/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "alpha-new/js/draw/draw-main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2114,
+								2114
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/babel-sublime-master/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2808.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "表情配字工具.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\CodeTest\\Cpany\\viewer\\Service-study\\service-study.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
